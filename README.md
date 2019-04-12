@@ -24,4 +24,4 @@ Este es un resumen de lo visto en cada clase. Para más detalle, naveguen al rep
 
 ## Licencia
 
-Ver [LICENSE](LICENSE.md) para más información (en inglés). Aplica a todos los repositorios dentro de la organización.
+Ver [LICENSE](LICENSE) para más información (en inglés). Aplica a todos los repositorios dentro de la organización.
