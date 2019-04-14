@@ -14,9 +14,12 @@ Este es un resumen de lo visto en cada clase. Para más detalle, naveguen al rep
 8. [**`Ver clase`**](https://github.com/ada-frontend-septimageneracion/clase-08) - Flex
 9. [**`Ver clase`**](https://github.com/ada-frontend-septimageneracion/clase-09) - Repaso \*
 10. [**`Ver clase`**](https://github.com/ada-frontend-septimageneracion/clase-10) - CSS (2ª parte)
-11. [**`Ver clase`**](https://github.com/ada-frontend-septimageneracion/clase-11) - ???
+11. [**`Ver clase`**](https://github.com/ada-frontend-septimageneracion/clase-11) - Proyecto 3 (Wikimedia de Tortugas) - CSS (3ª parte) \**
+12. [**`Ver clase`**](https://github.com/ada-frontend-septimageneracion/clase-12) - ???
 
 \* En esta clase vimos los requisitos necesarios para los proyectos con puro HTML + CSS
+
+\** Pueden usar este proyecto como base para el proyecto #1 que van a hacer
 
 ## Autor
 
