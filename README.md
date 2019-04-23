@@ -23,6 +23,18 @@ Este es un resumen de lo visto en cada clase. Para más detalle, naveguen al rep
 
 \** Pueden usar este proyecto como base para el proyecto #1 que van a hacer
 
+## Proyectos hechos en clase
+
+1) Página web "del tema que quieran"
+
+2) AFIP Invasivo: Formularios varios con varios tipos de datos (`<form>`)
+
+3) WikiMedia: Una wiki del tema que más les gusta (`float`, `position`, `overflow`)
+
+## Trabajos prácticos
+
+**`En definición`**
+
 ## Autor
 
 [**`Facundo Martin Gordillo`**](https://facundogordillo.com/)
