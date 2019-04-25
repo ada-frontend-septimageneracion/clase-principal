@@ -17,7 +17,8 @@ Este es un resumen de lo visto en cada clase. Para más detalle, naveguen al rep
 11. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-11) - Proyecto 3 (Wikimedia de Tortugas) - CSS (3ª parte) \**
 12. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-12) - Tipos de diseño + FontAwesome + `overflow` + Flex
 13. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-13) - Live Server + Colores + CSS Selectores y Pseudo's
-14. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-14) - ???
+14. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-14) - Pseudo's + "Maquetado Bootcamp" (1ª parte)
+15. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-15) - ???
 
 \* En esta clase vimos los requisitos necesarios para los proyectos con puro HTML + CSS
 
