@@ -18,7 +18,7 @@ Este es un resumen de lo visto en cada clase. Para más detalle, naveguen al rep
 12. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-12) - Tipos de diseño + FontAwesome + `overflow` + Flex
 13. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-13) - Live Server + Colores + CSS Selectores y Pseudo's
 14. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-14) - Pseudo's
-15. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-15) - Pseudo's + "CSS Bootcamp" (1ª parte)
+15. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-15) - Pseudo's + "CSS Bootcamp" (1ª parte) + Proyecto 4
 16. [**`Ver clase`**](https://ada-frontend-septimageneracion.github.io/clase-16) - ???
 
 \* En esta clase vimos los requisitos necesarios para los proyectos con puro HTML + CSS
@@ -32,6 +32,8 @@ Este es un resumen de lo visto en cada clase. Para más detalle, naveguen al rep
 2) AFIP Invasivo: Formularios varios con varios tipos de datos (`<form>`)
 
 3) WikiMedia: Una wiki del tema que más les gusta (`float`, `position`, `overflow`)
+
+4) Venta de ninjas
 
 ## Trabajos prácticos
 
